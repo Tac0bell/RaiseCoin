@@ -10,7 +10,7 @@ Raisecoin is a revolutionary project aimed at addressing the global challenge of
 - **Base Blockchain**: Chosen for its future scalability and ability to handle numerous transactions efficiently with low gas fees.
 
 ## Contract Address[Deployed on EDU Chain Testnet network]
-0x85c8629306c1976C1F3635288a6fE9BBFA4453ED
+0x1D41223158263A1e94E3C3250C6bC5e006149851
 
 ## Live Website Link
 [Raisecoin](https://raise-coin.vercel.app/)
